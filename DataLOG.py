@@ -21,3 +21,6 @@ colorbar.set_label('Valor da cor')
 
 # Exibir o gráfico
 plt.show()
+
+#Gera arquivo imagem
+plt.savefig('meu_grafico.jpg')
